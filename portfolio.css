@@ -1,0 +1,35 @@
+body {
+width: 1100px;
+}
+
+h5 {
+color: gray;
+}
+
+.container {
+width: 1100px;
+}
+
+.column1 {
+	width: 50%;
+}
+
+.column2 {
+	width: 50%;
+}
+
+.two-columns {
+	width: 50%;
+	float: left;
+}
+
+/*.container {
+float:left;
+}
+
+.two-columns {
+	width: 50%;
+}
+
+/*column-count: 2
+}*/
