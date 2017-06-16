@@ -4,6 +4,17 @@ width: 1024px;
 padding: 0px 200px;
 }
 
+h1 {
+	font-family: cursive;
+}
+
+h2 {
+	font-family: cursive;
+}
+
+p {
+	font-family: Didot;
+}
 
 .column1 {
 	width: 30%;
