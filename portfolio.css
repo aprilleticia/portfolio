@@ -1,4 +1,15 @@
 
+/*.container-top {
+width: 1024px;
+padding: 0px 200px;
+position: relative;
+}
+
+.overimage {
+width: 500px;
+position: absolute;
+}*/
+
 .container {
 width: 1024px;
 padding: 0px 200px;
