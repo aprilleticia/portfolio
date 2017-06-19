@@ -1,18 +1,37 @@
 
-/*.container-top {
-width: 1024px;
-padding: 0px 200px;
-position: relative;
+
+.background {
+/*background: url("april.jpg");*/
+	width: 1024px;
+	position: relative;
 }
 
-.overimage {
-width: 500px;
-position: absolute;
+.backgroundme {
+	width: 1024px;
+	/*position: relative;*/
+}
+
+/*.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  width: 500px;
 }*/
 
-.container {
+.overimage {
+position: absolute;
 width: 1024px;
-padding: 0px 200px;
+right: 200px;
+bottom: 0px;
+}
+
+
+
+
+.container {
+	width: 1024px;
+	padding: 0px 200px;
 }
 
 h1 {
@@ -25,13 +44,14 @@ h1 {
 
 h2 {
 	font-family: 'Didot';
+	font-size: 50px;
 	font-weight: 400;
 	line-height: 0%;
 }
 
 h5 {
 color: gray;
-line-height: 0%
+line-height: 0%;
 font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
@@ -42,6 +62,11 @@ p {
 	font-weight: 300;
 }
 
+li {font-family: 'Open Sans', Helvetica, sans-serif;
+	display: block;
+	font-weight: 300;
+	
+}
 .column1 {
 	width: 30%;
 	float: left;
