@@ -14,14 +14,14 @@
     position: absolute;
     right: 492px;
     bottom: 667px;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
 
 }
 
 .overimage {
 position: absolute;
-    padding: 60px 10px;
-    background-color: rgba(255, 255, 255, 0.46);
+    padding: 10px 45px 10px 45px;
+    background-color: rgba(255, 255, 255, 0.72);
 }
 
 .container {
@@ -45,11 +45,19 @@ h2 {
 }
 
 h5 {
-color: gray;
+color: green;
 line-height: 0%;
 font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
 
 p {
 	font-family: 'Open Sans', Helvetica, sans-serif;
@@ -60,24 +68,25 @@ p {
 li {font-family: 'Open Sans', Helvetica, sans-serif;
 	display: block;
 	font-weight: 300;
-	
 }
+
+
 .column1 {
 	width: 31%;
 	float: left;
-	padding: 11px;
+	padding: 11px 11px 11px 0px;
 }
 
 .column2 {
 	width: 31%;
 	float: left;
-	padding: 11px;
+	padding: 11px 11px 11px 24px;
 }
 
 .column3 {
 	width: 31%;
-	float: left;
-	padding: 11px;
+	float: right;
+	padding: 11px 0px 11px 0px;
 }
 
 .three-columns {
