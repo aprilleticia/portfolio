@@ -7,24 +7,21 @@
 
 .backgroundme {
 	width: 1024px;
-	/*position: absolute;*/
 }
 
 .transbox {
-  margin: 30px;
-    opacity: 4.6;
-    width: 489px;
+  	width: 512px;
     position: absolute;
-    right: 473px;
-    bottom: 640px;
+    right: 492px;
+    bottom: 667px;
+    padding: 20px;
 
 }
 
 .overimage {
 position: absolute;
-/*right: 0px;
-bottom: 300px;*/
-padding: 0px 10px;
+    padding: 60px 10px;
+    background-color: rgba(255, 255, 255, 0.46);
 }
 
 .container {
