@@ -1,33 +1,31 @@
 
 
 .background {
-/*background: url("april.jpg");*/
 	width: 1024px;
 	position: relative;
 }
 
 .backgroundme {
 	width: 1024px;
-	/*position: relative;*/
+	/*position: absolute;*/
 }
 
-/*.transbox {
+.transbox {
   margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.6;
-  width: 500px;
-}*/
+    opacity: 4.6;
+    width: 489px;
+    position: absolute;
+    right: 473px;
+    bottom: 640px;
+
+}
 
 .overimage {
 position: absolute;
-width: 1024px;
-right: 200px;
-bottom: 0px;
+/*right: 0px;
+bottom: 300px;*/
+padding: 0px 10px;
 }
-
-
-
 
 .container {
 	width: 1024px;
