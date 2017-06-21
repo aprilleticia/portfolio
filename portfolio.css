@@ -1,4 +1,26 @@
+.fa {
+    padding: 0px 13px 13px 13px;
+    font-size: 30px;
+    width: 30px;
+    /* text-align: right; */
+    text-decoration: left;
+    border-radius: 50%;
+    color: black;
+}
 
+/*.text-wrapper {
+	display: inline-block;
+}*/
+
+header {
+	display: block;
+	width: 1024px;
+}
+
+.social {
+	text-align: right;
+	font-size: 30px;
+}
 
 .background {
 	width: 1024px;
@@ -21,7 +43,7 @@
 .overimage {
 position: absolute;
     padding: 10px 45px 10px 45px;
-    background-color: rgba(255, 255, 255, 0.72);
+    background-color: rgba(255, 255, 255, 0.81);
 }
 
 .container {
@@ -35,6 +57,7 @@ h1 {
     width: 100%;
     font-weight: 800;
     line-height: 0%;
+    text-align: left;
 }
 
 h2 {
@@ -52,7 +75,7 @@ font-family: 'Open Sans', Helvetica, sans-serif;
 
 a {
 	text-decoration: none;
-	color: black;
+	color: green;
 }
 
 a:hover {
@@ -66,7 +89,7 @@ p {
 }
 
 li {font-family: 'Open Sans', Helvetica, sans-serif;
-	display: block;
+	/*display: block;*/
 	font-weight: 300;
 }
 
